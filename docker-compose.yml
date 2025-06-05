@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  document-processor:
+    build: .
+    ports:
+      - "8501:8501"
+    volumes:
+      - .:/app
+      - doc_processor_data:/app/data
+      - doc_processor_logs:/app/logs
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - TESSERACT_CMD=/usr/bin/tesseract
+
+volumes:
+  doc_processor_data:
+  doc_processor_logs:

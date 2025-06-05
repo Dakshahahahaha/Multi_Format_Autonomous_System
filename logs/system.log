@@ -1,0 +1,151 @@
+2025-06-04 19:40:16,180 - utils - INFO - Google Generative AI client imported.
+2025-06-04 19:42:19,093 - utils - INFO - Database initialized at context.db
+2025-06-04 19:48:20,701 - utils - INFO - Google Generative AI client imported.
+2025-06-04 19:48:20,751 - utils - INFO - Google Generative AI client imported for Email Agent.
+2025-06-04 20:08:54,454 - utils - WARNING - Google Generative AI library not found. Please run 'pip install google-generativeai'
+2025-06-04 20:08:54,512 - utils - WARNING - Google Generative AI library not found. Please run 'pip install google-generativeai'
+2025-06-04 21:39:26,609 - utils - WARNING - Google Generative AI library not found. Please run 'pip install google-generativeai'
+2025-06-04 21:39:26,636 - utils - WARNING - Google Generative AI library not found. Please run 'pip install google-generativeai'
+2025-06-04 21:47:45,332 - utils - WARNING - Google Generative AI library not found. Please run 'pip install google-generativeai'
+2025-06-04 21:47:45,345 - utils - WARNING - Google Generative AI library not found. Please run 'pip install google-generativeai'
+2025-06-04 21:53:06,034 - utils - WARNING - Google Generative AI library not found. Please run 'pip install google-generativeai'
+2025-06-04 21:53:06,052 - utils - WARNING - Google Generative AI library not found. Please run 'pip install google-generativeai'
+2025-06-04 22:08:22,435 - utils - WARNING - Google Generative AI library not found. Please run 'pip install google-generativeai'
+2025-06-04 22:08:22,452 - utils - WARNING - Google Generative AI library not found. Please run 'pip install google-generativeai'
+2025-06-04 22:08:24,335 - utils - INFO - Tesseract found: 5.5.0.20241111
+2025-06-04 22:12:43,383 - utils - WARNING - Google Generative AI library not found. Please run 'pip install google-generativeai'
+2025-06-04 22:12:43,427 - utils - WARNING - Google Generative AI library not found. Please run 'pip install google-generativeai'
+2025-06-04 22:12:43,542 - utils - INFO - Tesseract found: 5.5.0.20241111
+2025-06-04 22:12:43,745 - utils - INFO - Initializing DocumentRouter...
+2025-06-04 22:12:43,745 - utils - INFO - Initialized Invoice Extraction Agent.
+2025-06-04 22:14:05,454 - utils - WARNING - Google Generative AI library not found. Please run 'pip install google-generativeai'
+2025-06-04 22:14:05,469 - utils - WARNING - Google Generative AI library not found. Please run 'pip install google-generativeai'
+2025-06-04 22:14:05,521 - utils - INFO - Tesseract found: 5.5.0.20241111
+2025-06-04 22:14:05,689 - utils - INFO - Initializing DocumentRouter...
+2025-06-04 22:14:05,689 - utils - INFO - Initialized Invoice Extraction Agent.
+2025-06-04 23:51:03,712 - utils - INFO - Google Generative AI client imported.
+2025-06-04 23:51:03,720 - utils - INFO - Google Generative AI client imported for Email Agent.
+2025-06-04 23:51:03,784 - utils - INFO - Tesseract found: 5.5.0.20241111
+2025-06-04 23:51:03,784 - utils - INFO - Initialized Gemini classifier with model: gemini-1.5-flash-latest
+2025-06-04 23:51:03,785 - utils - INFO - Initializing DocumentRouter...
+2025-06-04 23:51:03,785 - utils - INFO - Initialized Invoice Extraction Agent.
+2025-06-04 23:51:03,785 - utils - INFO - Initialized Gemini Email Extraction Agent with model: gemini-1.5-flash-latest
+2025-06-04 23:51:03,786 - utils - INFO - Initialized Document Router with agents for: ['Invoice', 'Email']
+2025-06-04 23:51:03,801 - utils - INFO - Database initialized at context.db
+2025-06-04 23:51:03,802 - utils - INFO - Initialized Mock Payment Processor.
+2025-06-04 23:51:39,094 - utils - INFO - Tesseract found: 5.5.0.20241111
+2025-06-04 23:51:39,095 - utils - INFO - Initialized Gemini classifier with model: gemini-1.5-flash-latest
+2025-06-04 23:51:39,096 - utils - INFO - Initializing DocumentRouter...
+2025-06-04 23:51:39,097 - utils - INFO - Initialized Invoice Extraction Agent.
+2025-06-04 23:51:39,097 - utils - INFO - Initialized Gemini Email Extraction Agent with model: gemini-1.5-flash-latest
+2025-06-04 23:51:39,098 - utils - INFO - Initialized Document Router with agents for: ['Invoice', 'Email']
+2025-06-04 23:51:39,100 - utils - INFO - Database initialized at context.db
+2025-06-04 23:51:39,100 - utils - INFO - Initialized Mock Payment Processor.
+2025-06-04 23:51:46,159 - utils - INFO - Tesseract found: 5.5.0.20241111
+2025-06-04 23:51:46,159 - utils - INFO - Initialized Gemini classifier with model: gemini-1.5-flash-latest
+2025-06-04 23:51:46,160 - utils - INFO - Initializing DocumentRouter...
+2025-06-04 23:51:46,160 - utils - INFO - Initialized Invoice Extraction Agent.
+2025-06-04 23:51:46,161 - utils - INFO - Initialized Gemini Email Extraction Agent with model: gemini-1.5-flash-latest
+2025-06-04 23:51:46,161 - utils - INFO - Initialized Document Router with agents for: ['Invoice', 'Email']
+2025-06-04 23:51:46,162 - utils - INFO - Database initialized at context.db
+2025-06-04 23:51:46,163 - utils - INFO - Initialized Mock Payment Processor.
+2025-06-04 23:51:46,182 - utils - INFO - Starting processing for Invoice.txt (ID: 8ec12d25-4585-4ac2-a36d-fd2c9ea7e0ef)
+2025-06-04 23:51:46,187 - utils - ERROR - Cannot update context: transaction_id 8ec12d25-4585-4ac2-a36d-fd2c9ea7e0ef not found.
+2025-06-04 23:51:46,198 - utils - INFO - Context created for transaction_id: 8ec12d25-4585-4ac2-a36d-fd2c9ea7e0ef
+2025-06-04 23:51:46,201 - utils - INFO - Detecting document format and loading content...
+2025-06-05 00:15:06,226 - utils - INFO - Google Generative AI client imported.
+2025-06-05 00:15:06,226 - utils - INFO - Google Generative AI client imported for Email Agent.
+2025-06-05 00:15:06,290 - utils - INFO - Tesseract found: 5.5.0.20241111
+2025-06-05 00:15:06,290 - utils - INFO - Initialized Gemini classifier with model: gemini-1.5-flash-latest
+2025-06-05 00:15:06,290 - utils - INFO - Initializing DocumentRouter...
+2025-06-05 00:15:06,290 - utils - INFO - Initialized Invoice Extraction Agent.
+2025-06-05 00:15:06,290 - utils - INFO - Initialized Gemini Email Extraction Agent with model: gemini-1.5-flash-latest
+2025-06-05 00:15:06,290 - utils - INFO - Initialized Document Router with agents for: ['Invoice', 'Email']
+2025-06-05 00:15:06,301 - utils - INFO - Connected to database: context.db
+2025-06-05 00:15:06,304 - utils - INFO - Processing_contexts table ensured.
+2025-06-05 00:15:06,304 - utils - INFO - Initialized Mock Payment Processor.
+2025-06-05 00:15:17,585 - utils - INFO - Tesseract found: 5.5.0.20241111
+2025-06-05 00:15:17,586 - utils - INFO - Initialized Gemini classifier with model: gemini-1.5-flash-latest
+2025-06-05 00:15:17,586 - utils - INFO - Initializing DocumentRouter...
+2025-06-05 00:15:17,586 - utils - INFO - Initialized Invoice Extraction Agent.
+2025-06-05 00:15:17,586 - utils - INFO - Initialized Gemini Email Extraction Agent with model: gemini-1.5-flash-latest
+2025-06-05 00:15:17,587 - utils - INFO - Initialized Document Router with agents for: ['Invoice', 'Email']
+2025-06-05 00:15:17,589 - utils - INFO - Connected to database: context.db
+2025-06-05 00:15:17,589 - utils - INFO - Processing_contexts table ensured.
+2025-06-05 00:15:17,589 - utils - INFO - Initialized Mock Payment Processor.
+2025-06-05 00:15:20,154 - utils - INFO - Tesseract found: 5.5.0.20241111
+2025-06-05 00:15:20,154 - utils - INFO - Initialized Gemini classifier with model: gemini-1.5-flash-latest
+2025-06-05 00:15:20,154 - utils - INFO - Initializing DocumentRouter...
+2025-06-05 00:15:20,154 - utils - INFO - Initialized Invoice Extraction Agent.
+2025-06-05 00:15:20,154 - utils - INFO - Initialized Gemini Email Extraction Agent with model: gemini-1.5-flash-latest
+2025-06-05 00:15:20,154 - utils - INFO - Initialized Document Router with agents for: ['Invoice', 'Email']
+2025-06-05 00:15:20,158 - utils - INFO - Connected to database: context.db
+2025-06-05 00:15:20,158 - utils - INFO - Processing_contexts table ensured.
+2025-06-05 00:15:20,159 - utils - INFO - Initialized Mock Payment Processor.
+2025-06-05 00:15:20,179 - utils - INFO - Starting processing for Invoice.txt (ID: 343621c2-5a6e-4607-a446-f97b0733b8c6)
+2025-06-05 00:15:20,179 - utils - WARNING - Attempted to update non-existent context for transaction ID: 343621c2-5a6e-4607-a446-f97b0733b8c6
+2025-06-05 00:15:20,188 - utils - INFO - Context created for transaction ID: 343621c2-5a6e-4607-a446-f97b0733b8c6
+2025-06-05 00:15:20,191 - utils - INFO - Detecting document format and loading content...
+2025-06-05 00:15:20,200 - utils - INFO - Context updated for transaction ID: 343621c2-5a6e-4607-a446-f97b0733b8c6
+2025-06-05 00:15:20,225 - utils - INFO - Detected Text format for: data\Invoice.txt
+2025-06-05 00:15:20,233 - utils - INFO - Context updated for transaction ID: 343621c2-5a6e-4607-a446-f97b0733b8c6
+2025-06-05 00:15:20,233 - utils - INFO - Loaded non-PDF content. Text length: 426
+2025-06-05 00:15:20,246 - utils - INFO - Context updated for transaction ID: 343621c2-5a6e-4607-a446-f97b0733b8c6
+2025-06-05 00:15:20,246 - utils - INFO - Classifying document purpose using LLM...
+2025-06-05 00:15:20,255 - utils - INFO - Context updated for transaction ID: 343621c2-5a6e-4607-a446-f97b0733b8c6
+2025-06-05 00:15:20,255 - utils - INFO - Sending classification prompt to gemini...
+2025-06-05 00:15:20,988 - utils - INFO - Document classified as: Invoice (LLM raw output: 'Invoice')
+2025-06-05 00:15:20,988 - utils - INFO - Document classified as: Invoice (Confidence: 1.00)
+2025-06-05 00:15:21,005 - utils - INFO - Context updated for transaction ID: 343621c2-5a6e-4607-a446-f97b0733b8c6
+2025-06-05 00:15:21,018 - utils - INFO - Context updated for transaction ID: 343621c2-5a6e-4607-a446-f97b0733b8c6
+2025-06-05 00:15:21,020 - utils - INFO - Routing to Invoice extraction agent...
+2025-06-05 00:15:21,032 - utils - INFO - Context updated for transaction ID: 343621c2-5a6e-4607-a446-f97b0733b8c6
+2025-06-05 00:15:21,032 - utils - INFO - Routing document to Invoice Extraction Agent.
+2025-06-05 00:15:21,041 - utils - INFO - Extracted Invoice Number: oice
+2025-06-05 00:15:21,041 - utils - INFO - Extracted Date: 2025-06-03
+2025-06-05 00:15:21,049 - utils - INFO - Extracted Amount: 600.00 None
+2025-06-05 00:15:21,051 - utils - INFO - Extracted Bill To: John Doe
+2025-06-05 00:15:21,053 - utils - INFO - Invoice extraction completed with confidence: 1.00
+2025-06-05 00:15:21,055 - utils - INFO - Extraction completed with confidence: 1.00
+2025-06-05 00:15:21,065 - utils - INFO - Context updated for transaction ID: 343621c2-5a6e-4607-a446-f97b0733b8c6
+2025-06-05 00:15:21,080 - utils - INFO - Context updated for transaction ID: 343621c2-5a6e-4607-a446-f97b0733b8c6
+2025-06-05 00:15:21,082 - utils - INFO - Detected Invoice with extracted data. Triggering mock payment processing...
+2025-06-05 00:15:21,095 - utils - INFO - Context updated for transaction ID: 343621c2-5a6e-4607-a446-f97b0733b8c6
+2025-06-05 00:15:21,095 - utils - INFO - MOCK PAYMENT: Initiating payment for Invoice No. 'oice' for 600.00 None at 2025-06-04T18:45:21.095978.
+2025-06-05 00:15:21,097 - utils - INFO - Mock Payment Status: success
+2025-06-05 00:15:21,110 - utils - INFO - Context updated for transaction ID: 343621c2-5a6e-4607-a446-f97b0733b8c6
+2025-06-05 00:15:21,123 - utils - INFO - Context updated for transaction ID: 343621c2-5a6e-4607-a446-f97b0733b8c6
+2025-06-05 00:15:21,126 - utils - INFO - Context updated for transaction ID: 343621c2-5a6e-4607-a446-f97b0733b8c6
+2025-06-05 00:18:10,013 - utils - INFO - Google Generative AI client imported.
+2025-06-05 00:18:10,017 - utils - INFO - Google Generative AI client imported for Email Agent.
+2025-06-05 00:18:10,079 - utils - INFO - Tesseract found: 5.5.0.20241111
+2025-06-05 00:18:10,079 - utils - INFO - Initialized Gemini classifier with model: gemini-1.5-flash-latest
+2025-06-05 00:18:10,079 - utils - INFO - Initializing DocumentRouter...
+2025-06-05 00:18:10,079 - utils - INFO - Initialized Invoice Extraction Agent.
+2025-06-05 00:18:10,079 - utils - INFO - Initialized Gemini Email Extraction Agent with model: gemini-1.5-flash-latest
+2025-06-05 00:18:10,079 - utils - INFO - Initialized Document Router with agents for: ['Invoice', 'Email']
+2025-06-05 00:18:10,082 - utils - INFO - Connected to database: context.db
+2025-06-05 00:18:10,084 - utils - INFO - Processing_contexts table ensured.
+2025-06-05 00:18:10,084 - utils - INFO - Initialized Mock Payment Processor.
+2025-06-05 00:36:48,433 - utils - INFO - Google Generative AI client imported.
+2025-06-05 00:36:48,442 - utils - INFO - Google Generative AI client imported for Email Agent.
+2025-06-05 00:36:48,491 - utils - INFO - Tesseract found: 5.5.0.20241111
+2025-06-05 00:36:48,491 - utils - INFO - Initialized Gemini classifier with model: gemini-1.5-flash-latest
+2025-06-05 00:36:48,491 - utils - INFO - Initializing DocumentRouter...
+2025-06-05 00:36:48,491 - utils - INFO - Initialized Invoice Extraction Agent.
+2025-06-05 00:36:48,491 - utils - INFO - Initialized Gemini Email Extraction Agent with model: gemini-1.5-flash-latest
+2025-06-05 00:36:48,492 - utils - INFO - Initialized Document Router with agents for: ['Invoice', 'Email']
+2025-06-05 00:36:48,492 - utils - INFO - Connected to database: context.db
+2025-06-05 00:36:48,492 - utils - INFO - Processing_contexts table ensured.
+2025-06-05 00:36:48,492 - utils - INFO - Initialized Mock Payment Processor.
+2025-06-05 01:14:20,148 - utils - INFO - Google Generative AI client imported.
+2025-06-05 01:14:20,152 - utils - INFO - Google Generative AI client imported for Email Agent.
+2025-06-05 01:14:20,189 - utils - INFO - Tesseract found: 5.5.0.20241111
+2025-06-05 01:14:20,190 - utils - INFO - Initialized Gemini classifier with model: gemini-1.5-flash-latest
+2025-06-05 01:14:20,190 - utils - INFO - Initializing DocumentRouter...
+2025-06-05 01:14:20,190 - utils - INFO - Initialized Invoice Extraction Agent.
+2025-06-05 01:14:20,190 - utils - INFO - Initialized Gemini Email Extraction Agent with model: gemini-1.5-flash-latest
+2025-06-05 01:14:20,190 - utils - INFO - Initialized Document Router with agents for: ['Invoice', 'Email']
+2025-06-05 01:14:20,191 - utils - INFO - Connected to database: context.db
+2025-06-05 01:14:20,191 - utils - INFO - Processing_contexts table ensured.
+2025-06-05 01:14:20,191 - utils - INFO - Initialized Mock Payment Processor.

@@ -1,0 +1,4 @@
+Invoice Number: 84732
+Customer: John Doe
+Total Amount: $524.99
+Payment Due: 15th June 2025
